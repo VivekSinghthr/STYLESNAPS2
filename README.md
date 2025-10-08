@@ -1,11 +1,14 @@
 
-  # Professional CSS Effects Gallery
+🎨 StyleSnaps — CSS Effects Gallery
 
-  This is a code bundle for Professional CSS Effects Gallery. The original project is available at https://www.figma.com/design/xB4QGLM5UugcffzQrxgbqS/Professional-CSS-Effects-Gallery.
+A curated gallery of modern CSS animations and effects.
 
-  ## Running the code
+🚀 Tech Stack
 
-  Run `npm i` to install the dependencies.
+Vite + React + TypeScript
+TailwindCSS
+Hosted on Vercel
+Custom Domain: stylesnaps.site
+💖 Sponsor
 
-  Run `npm run dev` to start the development server.
-  
+If you love my work, scan the QR code below to support the project 🙌
